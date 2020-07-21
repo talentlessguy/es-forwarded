@@ -1,7 +1,7 @@
 {
   "name": "es-forwarded",
   "description": "forwarded-parse rewrite in TypeScript with ESM and CommonJS targets",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "main": "dist/index.cjs",
   "type": "module",
   "types": "dist/index.d.ts",
