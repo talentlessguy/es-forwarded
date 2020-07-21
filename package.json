@@ -9,7 +9,10 @@
   "description": "forwarded-parse rewrite in TypeScript with ESM and CommonJS targets",
   "version": "0.0.1",
   "main": "rollup.config.js",
-  "dependencies": {},
+  "files": [
+    "dist",
+    "src"
+  ],
   "scripts": {
     "build": "rollup -c"
   },
