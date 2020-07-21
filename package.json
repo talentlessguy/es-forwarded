@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "@types/node": "^14.0.24",
+    "rollup": "^2.22.1",
+    "rollup-plugin-typescript2": "^0.27.1",
+    "typescript": "^3.9.7"
+  },
+  "name": "es-forwarded",
+  "description": "forwarded-parse rewrite in TypeScript with ESM and CommonJS targets",
+  "version": "0.0.1",
+  "main": "rollup.config.js",
+  "dependencies": {},
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talentlessguy/es-forwarded.git"
+  },
+  "keywords": [],
+  "author": "talentlessguy <pilll.PL22@gmail.com>",
+  "engines": {
+    "node": ">=12"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talentlessguy/es-forwarded/issues"
+  },
+  "homepage": "https://github.com/talentlessguy/es-forwarded#readme"
+}
